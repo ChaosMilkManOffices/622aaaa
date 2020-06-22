@@ -4,6 +4,7 @@ public class Test622 {
 public static void main(String[] args) {
 	System.out.println("???????");
 	System.out.println("jjjjjjjjjjjjjj");
-	System.out.println("äºŒå·è®¿å®¢å°ç›˜è¿›å…¥>>>>>>>>>>>é€€å‡º");
+	System.out.println("ßÇßÇßÇßÇßÇßÇÀ©À©À©À©");
+	System.out.println("ºÙºÙºÙ  ÎÒËµgit  ÄãËµÒª git yao");
 }
 }
